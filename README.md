@@ -1,5 +1,4 @@
 # About me
-My Personal Repository
 
 Hi, I'm Precious Ayoola
 I'm a Finance and Admin professional transitioning into Data Science, interested in using data to uncover insights and drive informed decision-making.
